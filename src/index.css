@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-dark text-gray-300 font-sans;
+  }
+  
+  h1, h2, h3, h4 {
+    @apply text-gray-100 font-semibold;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply backdrop-blur-md bg-white/[0.08] border border-white/[0.12];
+  }
+  
+  .card-hover {
+    @apply transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-purple-500/30;
+  }
+}
