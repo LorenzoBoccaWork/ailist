@@ -141,7 +141,15 @@ Questo comando installa tutte le dipendenze specificate in `package.json`:
 - Vite e plugin associati
 - TypeScript e ESLint
 
-### Step 3: Avvio Server di Sviluppo
+### Step 3: Build per Produzione
+
+```bash
+npm run build
+```
+
+Genera un bundle ottimizzato in `/dist`
+
+### Step 4: Avvio Server di Sviluppo
 
 ```bash
 npm run dev
@@ -156,13 +164,6 @@ L'output nel terminale indicherà:
 
 Aprire il browser su `http://localhost:5174/`
 
-### Step 4: Build per Produzione
-
-```bash
-npm run build
-```
-
-Genera un bundle ottimizzato in `/dist`
 
 ### Step 5: Anteprima Build
 
