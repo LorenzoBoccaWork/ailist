@@ -216,6 +216,16 @@ const aiModels: AIModel[] = [
     strengths: 'Motore di ricerca API con risultati ottimizzati per IA',
     description: 'Ricerca web specializzata per modelli AI e agenti autonomi. Risultati accurati e veloci.',
     color: 'from-teal-500 to-cyan-600'
+  },
+  {
+    id: 'zoer',
+    name: 'Zoer',
+    creator: 'Zoer',
+    category: 'Siti Web',
+    url: 'https://zoer.ai',
+    strengths: 'Generazione full-stack (frontend, backend, database) da prompt in linguaggio naturale',
+    description: 'Crea web app complete partendo da una sola descrizione testuale. Genera automaticamente schema del database, API REST e interfaccia React, senza scrivere codice.',
+    color: 'from-yellow-400 to-orange-700'
   }
 ]
 
