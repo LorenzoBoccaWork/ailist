@@ -2,8 +2,8 @@
 
 **Versione:** 1.0.0  
 **Data di Creazione:** 4 Maggio 2026  
-**Autore:** Senior Full-Stack Web Developer  
-**Ultimo Aggiornamento:** 4 Maggio 2026
+**Autore:** Junior Full-Stack Web Developer  
+**Ultimo Aggiornamento:** 5 Maggio 2026
 
 ---
 
@@ -468,6 +468,7 @@ Array di 8 modelli IA categorizzati:
 - Midjourney
 - Flux.1 (Black Forest Labs)
 
+**Aggiunta dei modelli durante l'attivazione del sito**
 ---
 
 ## 💻 Utilizzo dell'Applicazione
@@ -719,4 +720,4 @@ Per problemi o domande:
 
 **Fine Documentazione**
 
-*Documento revisionato il 4 Maggio 2026 - Versione 1.0.0*
+*Documento revisionato il 5 Maggio 2026 - Versione 1.0.0*
